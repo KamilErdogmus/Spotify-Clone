@@ -8,7 +8,7 @@ Javascript kullanılarak Spotify-Clone uygulaması geliştirildi.
 - CSS
 - JS
 
-# Video
+# GIF
 
 ![](Spotify-JS.gif)
 
