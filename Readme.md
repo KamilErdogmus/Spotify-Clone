@@ -10,7 +10,7 @@ Javascript kullanılarak Spotify-Clone uygulaması geliştirildi.
 
 # Video
 
-![](./Spotify-Video.mp4)
+![](Spotify-JS.gif)
 
 # Link
 
