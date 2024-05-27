@@ -1,0 +1,27 @@
+aside {
+  padding: 20px;
+  margin: 10px;
+  background-color: $card-background;
+  border-radius: $radius;
+  margin-bottom: 80px;
+
+  figure {
+    img {
+      max-width: 133px;
+      cursor: pointer;
+    }
+
+    nav {
+      margin-top: 30px;
+      white-space: nowrap;
+      flex-direction: column;
+      gap: 30px;
+      display: flex;
+      a {
+        display: flex;
+        gap: 15px;
+        align-items: center;
+      }
+    }
+  }
+}
