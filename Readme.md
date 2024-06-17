@@ -16,17 +16,6 @@ This is a web application developed using JavaScript to clone the Spotify interf
 
 [Website](https://6654b6d95fdd49494e49cbe3--incomparable-gecko-905f69.netlify.app/)
 
-## Description
-
-Describe your application here. Include its purpose, features, and any other relevant information.
-
-## How to Use
-
-Provide instructions on how to use your application, including how to play music and navigate through the interface.
-
-## Installation
-
-If there are any specific installation steps required for your application, mention them here.
 
 ## Contributing
 
