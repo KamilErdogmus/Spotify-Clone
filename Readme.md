@@ -14,7 +14,7 @@ This is a web application developed using JavaScript to clone the Spotify interf
 
 1. Clone the repository:
    ```bash
-   https://github.com/KamilErdogmus/Spotify-Clone.git
+   git clone https://github.com/KamilErdogmus/Spotify-Clone.git
    ```
 2. Open the index.html file in your browser
 
